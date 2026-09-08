@@ -12,7 +12,7 @@ public class NBody {
 
         String fname = "./data/planets.txt";
 
-		/* uncomment after you create Planet class
+		/* uncomment after you create Planet class new branch test
 
 		Planet[] planets = null; // readPlanets(fname);
         */
